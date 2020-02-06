@@ -23,7 +23,6 @@ const HomeScreen = ()=>{
         fontSize: 50,
         color: "#fff"
       }}>Hello World</Text>
-      <Text>Domey is crazy!!!</Text>
     </View>
   )
 }
